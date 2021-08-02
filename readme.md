@@ -28,4 +28,11 @@
 ##### **Comandos utiles *RAMAS*:**
 - **Git branch *-nombre-*** -> crea la rama nombre.
 - **Git branch** -> muestra las ramas.
-- **Git checkout *-nombre-*** -> cambia a rama -nombre-. 
+- **Git checkout *-nombre-*** -> cambia a rama -nombre-.
+
+##### *Apuntadores**:
+- **HEAD:**
+    - Apuntador movil para movernos dentro del historial.
+    - Absoluta -> hasd de commit
+    - Relativa -> HEAD^^ o HEAD~2
+
