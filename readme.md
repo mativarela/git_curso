@@ -1,4 +1,4 @@
-##CLASE 2 Branchs
+## CLASE 2 Branchs
 
 **Fork** -> copia el repo a tu repo personal, con toda la historia.
 
