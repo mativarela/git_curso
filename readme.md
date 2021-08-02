@@ -1,5 +1,9 @@
 ## CLASE 2 Branchs
 
+### Regla: 
+#### git add -> git commit -> git push
+
+
 **Fork** -> copia el repo a tu repo personal, con toda la historia.
 
 **Git clone -url-** -> baja el repo a local
@@ -23,3 +27,5 @@
 **Git commit -am** -> ADD + Commit
 
 **Git ammend** -> enmienda errores de commit (mensajes)
+
+**Git push *repo* *rama*** -> envia los cambios al repositorio, a la rama especificada.
