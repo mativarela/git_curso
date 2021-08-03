@@ -29,6 +29,9 @@
 - **Git branch *-nombre-*** -> crea la rama nombre.
 - **Git branch** -> muestra las ramas.
 - **Git checkout *-nombre-*** -> cambia a rama -nombre-.
+- **Git merge *-nombreRama a integrar-*** -> merge los cambios de la rama indicada a la rama donde estoy parado.
+    - *Conflicto*: **git status** y se debe aceptar manualmente uno de los cambios. en VSC, se puede hacer visual, borrando y agregando a mano los cambios que quiero mantener, o por menu rapido a mantener origen, destino o ambos. 
+- **Git merge --abort** -> vuelve al estado original.
 
 ##### **Apuntadores**:
 - **HEAD:**
