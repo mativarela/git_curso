@@ -30,9 +30,12 @@
 - **Git branch** -> muestra las ramas.
 - **Git checkout *-nombre-*** -> cambia a rama -nombre-.
 
-##### *Apuntadores**:
+##### **Apuntadores**:
 - **HEAD:**
     - Apuntador movil para movernos dentro del historial.
     - Absoluta -> hasd de commit
     - Relativa -> HEAD^^ o HEAD~2
 
+- **BRANCH:**
+    - Apuntador dinamico que se para sobre el ultimo *commit* de una historia en particular. 
+    - Podemos crear ramas a partir de cualqueir *commit*.
